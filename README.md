@@ -1,46 +1,38 @@
 # Brandon Adams
 **brandon22adams@gmail.com**
 
-**https://codezstudios.com**
-
-**Orem, UT**
-**442-262-5269**
+**American Fork, UT**
 
 ### Summary
-- Skilled developer with experience developing games using C# and Unity. Looking for an opportunity to grow and deepen game development experience.
-- Skills & Abilities
-- Skilled in C#, Unity, Angular, Typescript, HTML5, CSS3, Javascript, and Redux.  
-- Used technologies Github, Trello, JIRA, Cypress, Electron, Figma, RxJS, and Jest.
-- Supervised and facilitated meetings for a team of 20 people.
+Senior Angular Developer with 6+ years of experience building and maintaining scalable web applications. Skilled in architecting frontends, mentoring developers, and leading teams to deliver enterprise solutions. Proficient with the latest Angular features, including Signals, and passionate about creating clean, maintainable, and high-performing code.
 
 ### Experience
-**Creator and Lead Developer, Glitch War (Game)**
-*04/2019 - Present*
+**Development Team Lead, DHI Computing Service**
+*10/2023 - Present*
 
-Conceptualized the project and designed how each system would interact.
-Coded all of the systems including menus, AI, key remapping  and save system using C# in Unity.
-Integrated game and released on Steam.
+- Architected the frontend of the company’s flagship product, establishing scalable patterns that support long-term growth.
+- Mentored a team of developers, raising overall code quality through peer reviews and knowledge sharing.
+- Standardized Angular practices across multiple teams, improving maintainability and onboarding efficiency.
 
-**Contract Angular Developer, Xenon Chex**
-*02/2021 - Present*
 
-Restructured project that was built by several developers and merged them into one cohesive codebase.
-Create brand new customer experiences by working closely with designers and project manager.
-Oversee code reviews and deployment in both test and production environments.
-Fix issues in the whole codebase.
+**Angular Developer, DHI Computing Service**
+*01/2023 - 10/2023*
+
+- Quickly ramped up and contributed across teams, helping the company meet a critical release deadline.
+- Founded a frontend standards committee to align practices across departments, fostering consistency and collaboration.
+
+
+**Contract Angular Developer, XenonChex**
+*02/2021 - 11/2022*
+
+- Refactored a fragmented codebase to accelerate feature delivery and reduce technical debt.
+- Partnered with design and leadership to implement intuitive user experiences for new product features.
+- Developed core features supporting initial product launch.
+- Upgraded Angular from v11 to v14, improving performance and maintainability.
+
 
 **Junior Software Developer, Dental Intelligence**
 *01/2019 - 10/2020*
 
-Co-developed a new desktop application that automatically brought up patient information when they called into the office. 
-Built new reusable components in Angular for our team of 5 to use.
-Skilled using Redux to receive and store data in an organized way.
-Code reviewed pull requests on github daily.
-Experience integrating with 3rd party APIs
-
-**Quality Assurance, Dental Intelligence**
-*06/2018 - 01/2019*
-
-Manually tested applications finding bugs and inconsistencies to increase customer satisfaction. 
-Wrote test plans and made E2E tests that helped allow faster and more frequent deployments of various applications.
-Trained and taught 2 new QA teammates how to track, manage, and report real bugs.
+- Implemented Redux-based state management for reliable and organized data handling.
+- Integrated third-party APIs into production applications.
